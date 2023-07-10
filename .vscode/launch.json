@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/problem solving/problem with c++/binary search",
-      "program": "d:/problem solving/problem with c++/binary search/build/Debug/outDebug",
+      "cwd": "d:/problem solving/problem with c++/c or c++",
+      "program": "d:/problem solving/problem with c++/c or c++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
